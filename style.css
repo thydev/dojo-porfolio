@@ -5,7 +5,7 @@ body {
 }
 
 #container {
-  width: 960px;
+  width: 950px;
   height: auto;
   margin: 0 auto;
   background: rgb(65, 30, 30);
@@ -26,10 +26,12 @@ body {
   float: left;
   padding: 0 0 0 0;
   font-family: "Comic Sans MS";
+  line-height: 40px;
 }
 
 #header h3 {
   float: right;
+  line-height: 40px;
 }
 
 #mainContent {
@@ -52,9 +54,10 @@ body {
 }
 
 .aboutMe {
-  width: 520px;
+  width: 500px;
   height: 265px;
   float: right;
+  margin-right: 10px
 }
 
 .bgGrey {
@@ -75,7 +78,7 @@ body {
 }
 .projectPicture{
   width: 100%;
-  height: auto;
+  height: 165px;
 }
 div.wrapper {
   padding: 0 10px 0 10px;
@@ -87,7 +90,7 @@ div.wrapper {
   height: auto;
   display: block;
   line-height: 30px;
-  color: gainsboro;
+  color: white;
   padding: 5px 0 5px 0px;
   margin: 0;
 }
